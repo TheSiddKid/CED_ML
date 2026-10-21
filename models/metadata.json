@@ -1,0 +1,28 @@
+{
+  "dataset_name": "Our World in Data CO2 and Greenhouse Gas Emissions",
+  "dataset_url": "https://github.com/owid/co2-data",
+  "dataset_file": "data/raw/owid_co2_data.csv",
+  "trained_at_utc": "2026-10-21T06:19:21.152491Z",
+  "features": [
+    "country",
+    "year",
+    "population",
+    "gdp",
+    "cement_co2",
+    "coal_co2",
+    "oil_co2",
+    "gas_co2",
+    "flaring_co2"
+  ],
+  "target": "co2",
+  "target_unit": "million tonnes CO2",
+  "train_year_range": [
+    1750,
+    1969
+  ],
+  "test_year_range": [
+    1970,
+    2024
+  ],
+  "random_seed": 42
+}

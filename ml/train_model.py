@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 
 import joblib
@@ -165,7 +165,7 @@ def main() -> None:
         "dataset_name": "Our World in Data CO2 and Greenhouse Gas Emissions",
         "dataset_url": "https://github.com/owid/co2-data",
         "dataset_file": str(RAW_DATA_PATH.relative_to(ROOT)),
-        "trained_at_utc": datetime.utcnow().isoformat() + "Z",
+        "trained_at_utc": datetime.now(timezone.utc).isoformat(),
         "features": FEATURE_COLUMNS,
         "target": TARGET_COLUMN,
         "target_unit": UNIT,
