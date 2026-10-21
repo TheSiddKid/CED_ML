@@ -1,0 +1,237 @@
+feature,importance
+num__coal_co2,0.5691867004989214
+num__year,0.12604253770484936
+num__oil_co2,0.1046627013302183
+cat__country_OECD (GCP),0.10225424992616214
+cat__country_Europe (GCP),0.03291216912015983
+num__gas_co2,0.02483406962159065
+cat__country_North America (GCP),0.02414836928869816
+num__cement_co2,0.006952110498115869
+cat__country_Non-OECD (GCP),0.005253920673937471
+num__population,0.0013437768632476284
+num__flaring_co2,0.001243689696522878
+cat__country_Asia (GCP),0.0010191476414431813
+num__gdp,3.33128325637516e-05
+cat__country_South America (GCP),2.8563793108365174e-05
+cat__country_Africa (GCP),2.1215143332796098e-05
+cat__country_Oceania (GCP),1.2185681838510733e-05
+cat__country_High-income countries,1.0488636718146969e-05
+cat__country_Middle East (GCP),1.0297110891815051e-05
+cat__country_European Union (28),9.124271006319268e-06
+cat__country_World,4.727697973943631e-06
+cat__country_Asia (excl. China and India),4.622660341831922e-06
+cat__country_Europe,4.014037969839991e-06
+cat__country_Europe (excl. EU-27),1.3016648535191654e-06
+cat__country_North America,1.206934169923153e-06
+cat__country_United States,1.0142108781518148e-06
+cat__country_Europe (excl. EU-28),9.463537487500736e-07
+cat__country_Central America (GCP),9.183719798368264e-07
+cat__country_European Union (27),6.372632750160057e-07
+cat__country_Asia,5.502352001802952e-07
+cat__country_International shipping,3.125326637966406e-07
+cat__country_Upper-middle-income countries,2.3002519087797826e-07
+cat__country_Russia,2.1286180719831493e-07
+cat__country_North America (excl. USA),1.624844155073567e-07
+cat__country_Germany,1.368486523531995e-07
+cat__country_United Kingdom,1.0496102273978648e-07
+cat__country_Japan,3.4797768523336445e-08
+cat__country_Mexico,2.933897030307187e-08
+cat__country_Romania,2.741072832471873e-08
+cat__country_South America,2.2016629473857444e-08
+cat__country_France,2.051393741994598e-08
+cat__country_Canada,1.9639648906577305e-08
+cat__country_Venezuela,1.3354356957614585e-08
+cat__country_Ukraine,1.2897022709857617e-08
+cat__country_Lower-middle-income countries,1.1992681883485205e-08
+cat__country_Italy,1.140235713769356e-08
+cat__country_Uzbekistan,1.0163749355097498e-08
+cat__country_Poland,8.021886188445657e-09
+cat__country_Iran,7.411775254971033e-09
+cat__country_China,6.60158632174178e-09
+cat__country_Netherlands,4.246383981842086e-09
+cat__country_Oceania,2.907509267903411e-09
+cat__country_Azerbaijan,2.501045951903219e-09
+cat__country_Kuwait,2.3765595631513038e-09
+cat__country_Czechia,2.2688614849788782e-09
+cat__country_Egypt,1.8528438456800374e-09
+cat__country_Spain,1.5733466339624148e-09
+cat__country_Belgium,1.518143264297869e-09
+cat__country_Africa,1.4450245717486269e-09
+cat__country_International aviation,1.2080581290660643e-09
+cat__country_Belarus,1.1910558356926585e-09
+cat__country_Austria,1.0658946096033634e-09
+cat__country_South Africa,9.308252280696277e-10
+cat__country_Argentina,9.224961818243261e-10
+cat__country_Australia,9.143741318231869e-10
+cat__country_Sweden,8.660340715910631e-10
+cat__country_Nigeria,6.516666825525772e-10
+cat__country_India,5.422657504830055e-10
+cat__country_Turkey,4.755558435923746e-10
+cat__country_Brazil,4.192104843059243e-10
+cat__country_Hungary,4.06776270415972e-10
+cat__country_Denmark,3.89092550154269e-10
+cat__country_Kazakhstan,3.8799939424291726e-10
+cat__country_Georgia,3.365446414471546e-10
+cat__country_Chile,3.098453761410033e-10
+cat__country_Pakistan,3.079549529521168e-10
+cat__country_Iraq,2.606177755462265e-10
+cat__country_Turkmenistan,2.369622495605354e-10
+cat__country_Switzerland,2.2973700581818455e-10
+cat__country_Libya,2.1881170035515991e-10
+cat__country_Colombia,2.0914612313817857e-10
+cat__country_Finland,1.9393467900388495e-10
+cat__country_Cuba,1.7579839740504424e-10
+cat__country_New Zealand,1.642500287636013e-10
+cat__country_Saudi Arabia,1.4083890699492346e-10
+cat__country_Indonesia,1.3648053641032768e-10
+cat__country_Norway,1.2753655738088426e-10
+cat__country_South Korea,1.2028546426539296e-10
+cat__country_Slovakia,8.747804613377767e-11
+cat__country_Philippines,8.342043420337935e-11
+cat__country_Yemen,8.302437751102118e-11
+cat__country_Lithuania,7.273599356875202e-11
+cat__country_Peru,7.131931595203837e-11
+cat__country_Bulgaria,5.954731923566968e-11
+cat__country_Curacao,5.3557437267850615e-11
+cat__country_Low-income countries,4.5462951606961644e-11
+cat__country_Moldova,1.8269922397236815e-11
+cat__country_Vietnam,1.8252872593990677e-11
+cat__country_Algeria,1.6209096518105946e-11
+cat__country_Croatia,1.6122470701918642e-11
+cat__country_Latvia,1.5151026432648704e-11
+cat__country_Democratic Republic of Congo,1.3442037393898917e-11
+cat__country_Taiwan,1.2813092021316672e-11
+cat__country_Ireland,1.2055569500559953e-11
+cat__country_Slovenia,7.587609888411742e-12
+cat__country_Serbia,6.6057375482012015e-12
+cat__country_Estonia,5.8411207351991815e-12
+cat__country_Luxembourg,5.138510954735083e-12
+cat__country_Portugal,4.738971033278186e-12
+cat__country_Kyrgyzstan,3.7999161509184985e-12
+cat__country_Trinidad and Tobago,3.0813944216970648e-12
+cat__country_Armenia,2.853835173975737e-12
+cat__country_Greece,2.570273303809701e-12
+cat__country_Israel,2.2176069622015026e-12
+cat__country_Tajikistan,1.8141113704465075e-12
+cat__country_Zimbabwe,1.1700354946777446e-12
+cat__country_North Macedonia,9.171159259589181e-13
+cat__country_Bahrain,7.890566267117226e-13
+cat__country_Brunei,3.714181492518274e-13
+cat__country_Malaysia,2.291326047266268e-13
+cat__country_Zambia,2.2430040583530894e-13
+cat__country_Uruguay,1.924254191338245e-13
+cat__country_Bosnia and Herzegovina,1.7752913387788041e-13
+cat__country_Myanmar,1.5144776878186344e-13
+cat__country_North Korea,1.1185988270902819e-13
+cat__country_Hong Kong,7.317469735759269e-14
+cat__country_Singapore,6.740882562669683e-14
+cat__country_Morocco,2.975556824402824e-14
+cat__country_Montenegro,2.0532381958787668e-14
+cat__country_Mozambique,1.0884642448320344e-14
+cat__country_Tunisia,7.635352877310795e-15
+cat__country_Cameroon,2.738601083621454e-15
+cat__country_Ecuador,1.885445887363723e-15
+cat__country_Kenya,1.5903588662006294e-15
+cat__country_Tanzania,1.0129317962840004e-15
+cat__country_El Salvador,7.604440077205001e-16
+cat__country_Panama,2.0785352285146004e-16
+cat__country_Gambia,0.0
+cat__country_Ghana,0.0
+cat__country_French Polynesia,0.0
+cat__country_Ethiopia,0.0
+cat__country_Albania,0.0
+cat__country_Bangladesh,0.0
+cat__country_Barbados,0.0
+cat__country_Aruba,0.0
+cat__country_Antigua and Barbuda,0.0
+cat__country_Angola,0.0
+cat__country_Bahamas,0.0
+cat__country_Belize,0.0
+cat__country_Bonaire Sint Eustatius and Saba,0.0
+cat__country_Bolivia,0.0
+cat__country_Bermuda,0.0
+cat__country_Benin,0.0
+cat__country_British Virgin Islands,0.0
+cat__country_Burkina Faso,0.0
+cat__country_Burundi,0.0
+cat__country_Afghanistan,0.0
+cat__country_Cote d'Ivoire,0.0
+cat__country_Congo,0.0
+cat__country_Cook Islands,0.0
+cat__country_Costa Rica,0.0
+cat__country_Comoros,0.0
+cat__country_Cape Verde,0.0
+cat__country_Central African Republic,0.0
+cat__country_Chad,0.0
+cat__country_Dominican Republic,0.0
+cat__country_Dominica,0.0
+cat__country_Djibouti,0.0
+cat__country_Cyprus,0.0
+cat__country_Eritrea,0.0
+cat__country_Equatorial Guinea,0.0
+cat__country_Eswatini,0.0
+cat__country_Cambodia,0.0
+cat__country_Honduras,0.0
+cat__country_Iceland,0.0
+cat__country_Guatemala,0.0
+cat__country_Grenada,0.0
+cat__country_Guinea,0.0
+cat__country_Guinea-Bissau,0.0
+cat__country_Guyana,0.0
+cat__country_Haiti,0.0
+cat__country_Greenland,0.0
+cat__country_Gabon,0.0
+cat__country_Fiji,0.0
+cat__country_Faroe Islands,0.0
+cat__country_Montserrat,0.0
+cat__country_Nepal,0.0
+cat__country_Nicaragua,0.0
+cat__country_Niger,0.0
+cat__country_Macao,0.0
+cat__country_Liechtenstein,0.0
+cat__country_Lebanon,0.0
+cat__country_Jordan,0.0
+cat__country_Jamaica,0.0
+cat__country_Laos,0.0
+cat__country_Kiribati,0.0
+cat__country_Liberia,0.0
+cat__country_Malawi,0.0
+cat__country_Mongolia,0.0
+cat__country_Nauru,0.0
+cat__country_Madagascar,0.0
+cat__country_Mali,0.0
+cat__country_Malta,0.0
+cat__country_Mauritania,0.0
+cat__country_Mauritius,0.0
+cat__country_Paraguay,0.0
+cat__country_Papua New Guinea,0.0
+cat__country_Palau,0.0
+cat__country_Oman,0.0
+cat__country_New Caledonia,0.0
+cat__country_South Sudan,0.0
+cat__country_Sierra Leone,0.0
+cat__country_Rwanda,0.0
+cat__country_Ryukyu Islands (GCP),0.0
+cat__country_Saint Helena,0.0
+cat__country_Saint Kitts and Nevis,0.0
+cat__country_Saint Lucia,0.0
+cat__country_Saint Pierre and Miquelon,0.0
+cat__country_Saint Vincent and the Grenadines,0.0
+cat__country_Samoa,0.0
+cat__country_Sao Tome and Principe,0.0
+cat__country_Qatar,0.0
+cat__country_Somalia,0.0
+cat__country_Solomon Islands,0.0
+cat__country_Sint Maarten (Dutch part),0.0
+cat__country_Seychelles,0.0
+cat__country_Senegal,0.0
+cat__country_Sri Lanka,0.0
+cat__country_Sudan,0.0
+cat__country_Tonga,0.0
+cat__country_Togo,0.0
+cat__country_Thailand,0.0
+cat__country_Syria,0.0
+cat__country_Suriname,0.0
+cat__country_United Arab Emirates,0.0
+cat__country_Uganda,0.0
+cat__country_Vanuatu,0.0
